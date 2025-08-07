@@ -27,11 +27,11 @@ This project features an interactive Power BI dashboard designed to analyze and 
 
 ## 📂 Repository Contents
 
-- `E-Commerce-Dashboard.pbix` – The main Power BI report file
-- `E Commerce Power BI Dashboard.png` – Static preview image of the dashboard
+- `E-Commerce Dashboard Power BI .pbix` – The main Power BI report file
+- `SS E-Commerce Dashboard Power BI.png` – Static preview image of the dashboard
 
 ## 📥 Dashboard Preview
 
-![Dashboard Preview](https://github.com/dakshgautam591/E-Commerce-Power-BI-Dashboard/blob/main/Snapshot%20E%20Commerce%20Power%20BI%20Dashboard.png)
+![Dashboard Preview](https://github.com/rohanchaudhary21/E-Commerce-Power-BI-Dashboard-Public/blob/main/SS%20E-Commerce%20Dashboard%20Power%20BI%20.png)
 
 
